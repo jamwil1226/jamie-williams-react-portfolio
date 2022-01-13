@@ -39,6 +39,8 @@
     height: 100%;
     object-fit: cover;
     display: flex;
+    border: none;
+    border-radius: 30px;
 }
 
 .a-title {
@@ -46,14 +48,15 @@
     display: flex;
 }
 
-.a-sub {
+.a-sub h2 {
     font-style: italic;
     margin: 10px;
     display: flex;
+    font-size: 15px;
 }
 
-.a-desc {
-    font-size: 12px;
+.a-desc h3{
+    font-size: 13px;
     margin: 10px;
 }
 
