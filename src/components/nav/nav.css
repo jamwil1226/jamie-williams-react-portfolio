@@ -1,0 +1,35 @@
+/* Nav */
+
+:root {
+    --primary-white: white;
+    --secondary-aqua: aqua;
+    --tertiary-black: black;
+}
+
+nav {
+    padding-left: 15px;
+    position: sticky; top: 0;
+}
+
+a.nav-link {
+    font-weight: 500;
+    letter-spacing: 0.0375rem;
+    cursor: pointer;
+    color: white !important;
+    margin: 0px 30px;
+
+}
+
+nav a.nav-link:hover {
+    color: var(--secondary-aqua) !important;
+    border-top: 0.1875rem solid var(--secondary-aqua);
+}
+
+nav ul li {
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    color: var(--secondary-aqua) !important;
+}
+

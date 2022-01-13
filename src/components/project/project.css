@@ -1,0 +1,39 @@
+.portfolio-wrapper {
+    padding: 3rem 0;
+}
+
+.portfolio-image {
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+    padding: 0 0.5rem;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: aqua;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.image-box-wrapper {
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+.image-box-wrapper p {
+    background-color: black;
+    color: aqua;
+    width: 400px;
+    padding: 5px;
+}
+
+.image-box-wrapper button {
+    background-color: black;
+    color: aqua;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-size: 10px;
+
+}

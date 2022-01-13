@@ -1,0 +1,21 @@
+.footer {
+    background-color: black;
+    padding: 30px;
+}
+
+.container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+    margin-left: 50px;
+}
+
+a:hover {
+    color: white;
+    border-top: 0.1875rem solid var(--secondary-aqua);
+}
