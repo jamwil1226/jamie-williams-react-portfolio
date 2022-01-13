@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# Welcome to my REACT PORTFOLIO!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+### This REACT PORTFOLIO was created to share a little bit about myself, some of my latest projects, provide my contact information, a form to contact me, and to provide my resume to employers.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![User Story](./src/images/user-story.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Deployment](#deployment)
+* [License](#license)
+* [Contributor](#contributor)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Installation
+### In order to install this repository, you will need to clone it and run npm init and npm install to install all of the dependencies listed inside the package.json file.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+### To use this app after cloning and initializing the dependencies, run npm start in the terminal to start it.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![npm start](./src/images/npm-start.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### You will then see the confirmation that the app is running.
 
-### `npm run eject`
+![App Running](./src/images/app-running.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### When the app opens, you will be greeted with my intro and the sticky navigation bar.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![homepage](./src/images/homepage.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### When you click on the 'About Me' tab of the navigation bar, you will be taken to the 'About Me' section.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![About Me](./src/images/about-me.png)
 
-## Learn More
+### When you click on the 'Portfolio' tab of the navigation bar, you will be taken to the 'Portfolio' section displaying 6 of my latest projects.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![First 2 projects](./src/images/projects1.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Second 2 projects](./src/images/projects2.png)
 
-### Code Splitting
+![Third 2 projects](./src/images/projects3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### When you click on the 'View Website' button of any project, you will be directed to the project's deployed website.
 
-### Analyzing the Bundle Size
+![My Plate Website](./src/images/myplate-website.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### When you click on the 'View GitHub' button of any project, you will be directed to the project's GitHub page.
 
-### Making a Progressive Web App
+![My Plate GitHub](./src/images/myplate-github.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### When you click on the 'Contact Me' tab of the navigation bar, you will be taken to the 'Contact Me' section displaying my phone number and email address along with a contact form.
 
-### Advanced Configuration
+![Contact Me](./src/images/contact.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### The contact form has validation for the name, email, and message.
 
-### Deployment
+![Validate Name](./src/images/validate-name.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Validate Email](./src/images/validate-email.jpg)
 
-### `npm run build` fails to minify
+![Validate Message](./src/images/validate-message.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### When you click on the 'Resume' tab of the navigation bar, you will be taken to the 'Resume' section displaying my Resume along with a button to download my Resume as a PDF.
+
+![resume](./src/images/resume-on-app.png)
+
+### The footer displays links to my GitHub, LinkedIn, and StackOverflow accounts.
+
+![footer](./src/images/footer.png)
+
+### This site is mobile responsive to all screen sizes.
+
+![mobile responsive](./src/images/mobile1.png)
+
+![mobile responsive](./src/images/mobile2.png)
+
+![mobile responsive](./src/images/mobile3.png)
+
+
+## Deployment
+### You can find my REACT PORTFOLIO deployed at https://jamwil1226.github.io/my-react-portfolio/
+
+### I hope you enjoy viewing my REACT PORTFOLIO! I welcome all contributions and feedback!
+
+## License
+### The license for this project is the MIT.
+
+Copyright © 2021
+
+
+## Contributor
+### *If you have any questions, please reach out to me.*
+
+### _Jamie Williams_ 
+
+![Jamie Williams Headshot](./src/images/jamie-headshot-resized.png)
+
+### Jamie's GitHub: [@jamwil1226](https://github.com/jamwil1226/)

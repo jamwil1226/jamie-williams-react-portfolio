@@ -1,6 +1,5 @@
 import React from 'react';
 import myResume from "../../images/resume.png";
-import "../../images/resume.pdf"
 import './resume.css';
 
 
@@ -15,7 +14,7 @@ const Resume = () => {
                     <a href="./resume.pdf" download="jamie-williams-resume" className="download-button">Download PDF</a>
                 </div>
                 <div className="col-sm">
-                    <img src={myResume} />
+                    <img src={myResume} alt="resume" />
                 </div>
             </div>
         </div>
