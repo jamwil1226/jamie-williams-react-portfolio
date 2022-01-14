@@ -113,8 +113,17 @@
     }
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 1504px) {
     .h-bg {
-        margin-bottom: 50px;
+        height: 75%;
+    }
+
+    .h-desc h3 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    .h-intro {
+        font-size: 45px;
     }
 }

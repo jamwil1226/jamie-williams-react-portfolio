@@ -90,3 +90,15 @@
         margin-bottom: 200px;
     }
 }
+
+@media (min-width: 1504px) {
+
+    .a-desc h3 {
+        font-size: 25px;
+    }
+
+    .a-sub h2 {
+        font-size: 25px;
+    }
+
+}
