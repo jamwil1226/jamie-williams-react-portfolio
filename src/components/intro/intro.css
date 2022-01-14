@@ -112,3 +112,9 @@
         display: none;
     }
 }
+
+@media (min-width: 1500px) {
+    .h-bg {
+        margin-bottom: 50px;
+    }
+}
