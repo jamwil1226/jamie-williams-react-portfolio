@@ -2,6 +2,7 @@ import "./intro.css";
 import Me from "../../images/jamie-headshot.png";
 import React from "react";
 
+// Intro section with scrolling feature and image
 const Intro = () => {
     return (
         <div className="container-fluid" id="intro">

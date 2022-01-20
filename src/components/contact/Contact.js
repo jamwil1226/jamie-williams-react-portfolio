@@ -3,11 +3,13 @@ import "./contact.css";
 import Phone from "../../images/icons8-cell-phone-50.png";
 import Email from "../../images/icons8-email-open-50.png";
 
+// helper function for email validation
 function validateEmail(email) {
     var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(String(email).toLowerCase());
   }
 
+// contact form with validation
 function ContactForm() {
     const [formState, setFormState] = useState({ name: '', email: '', message: '' });
   
@@ -57,7 +59,7 @@ function ContactForm() {
     // ;}
 
     return (
-
+        // Contact Me section
         <div className="c-wrapper">   
         
             <div className="container-fluid" id="contact">

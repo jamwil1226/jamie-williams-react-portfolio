@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav from "./components/nav/Nav";
+import Header from "./components/header/Header";
 import Intro from "./components/intro/Intro";
 import About from "./components/about/About";
 import Project from "./components/project/Project";
@@ -9,12 +9,13 @@ import Resume from "./components/resume/Resume";
 import Footer from "./components/footer/Footer";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
+//Nav and footer appear on every page
 const App = () => {
 
 return (
   <Router>
     <div>
-      <Nav/>
+      <Header/>
       <Routes>
         <Route path="/intro" element={<Intro/>} />
         <Route path="/about" element={<About/>} />

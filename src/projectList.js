@@ -5,6 +5,7 @@ import spaceExplorer from "./images/space-explorer.png";
 import weatherDashboard from "./images/weather-dashboard.png";
 import workDayScheduler from "./images/workday-scheduler.png";
 
+// 6 projects with links to GitHub and website
 export default [
     {
         "id": 1,

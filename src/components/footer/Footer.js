@@ -1,6 +1,7 @@
 import React from 'react';
 import './footer.css';
 
+// Footer with links to GitHub, LinkedIn, and StackOverflow to appear at bottom of every section
 const Footer = () => {
     return (
         <div className="footer">

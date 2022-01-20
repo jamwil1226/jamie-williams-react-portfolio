@@ -2,7 +2,7 @@ import "./project.css";
 import React from "react";
 import projectList from "../../projectList";
 
-
+// Map through projects set up in ProjectList.js
 const Project = () => {
     return (
         <div className="portfolio-wrapper">

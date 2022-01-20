@@ -3,7 +3,7 @@ import myResume from "../../images/resume.png";
 import './resume.css';
 import Pdf from "../../public/resume.pdf";
 
-
+// Resume with PDF download
 const Resume = () => {
 
     return (

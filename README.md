@@ -84,7 +84,7 @@
 
 
 ## Deployment
-### You can find my REACT PORTFOLIO deployed at https://jamwil1226.github.io/my-react-portfolio/
+### You can find my REACT PORTFOLIO deployed at https://jamwil1226.github.io/jamie-williams-react-portfolio/
 
 ### I hope you enjoy viewing my REACT PORTFOLIO! I welcome all contributions and feedback!
 

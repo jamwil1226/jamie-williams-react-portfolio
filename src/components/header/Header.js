@@ -1,9 +1,9 @@
 import React from "react";
-import "./nav.css";
+import "./header.css";
 import { Link } from 'react-router-dom';
 
-
-const Nav = () => {
+// Navigation to appear on top of every section
+const Header = () => {
     return (
         <header>
             <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
@@ -50,5 +50,5 @@ const Nav = () => {
     )
 }
 
-export default Nav
+export default Header
 

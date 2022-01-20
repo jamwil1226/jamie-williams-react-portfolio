@@ -1,7 +1,7 @@
 import "./about.css";
 import AboutMe from "../../images/jamie-about-me-resized.png";
 
-
+// About Me section with my image
 const About = () => {
     return (
         <div className="container-fluid">
