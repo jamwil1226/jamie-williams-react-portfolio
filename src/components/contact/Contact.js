@@ -92,15 +92,15 @@ function ContactForm() {
                         <div>
                             
                             <label htmlFor="name">Name:</label>
-                            <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
+                            <input type="text" name="name" defaultValue={name} onBlur={handleChange} required />
                         </div>
                         <div>
                             <label htmlFor="email">Email:</label>
-                            <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
+                            <input type="email" name="email" defaultValue={email} onBlur={handleChange} required />
                         </div>
                         <div>
                             <label htmlFor="message">Message:</label>
-                            <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+                            <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} required />
                         </div>
                         {errorMessage && (
                             <div>

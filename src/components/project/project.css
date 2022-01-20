@@ -1,5 +1,9 @@
 .portfolio-wrapper {
     padding: 3rem 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
 }
 
 .portfolio-image {
@@ -7,6 +11,10 @@
     width: 400px;
     border: 1px solid black;
     padding: 0 0.5rem;
+}
+
+.project-name {
+    font-weight: bold;
 }
 
 h1 {
@@ -38,9 +46,18 @@ h1 {
 
 }
 
+.project-name {
+    margin-top: 15px;
+}
+
+.project-description {
+    margin: 0px 100px;
+}
+
 @media (min-width: 1504px) {
     .image-box-wrapper {
         margin-left: 10px;
     }
 
 }
+
