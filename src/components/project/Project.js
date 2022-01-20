@@ -1,12 +1,6 @@
 import "./project.css";
 import React from "react";
 import projectList from "../../projectList";
-// import originalPortfolio from "../../images/original-portfolio.png";
-// import noteTaker from "../../images/note-taker.png";
-// import myPlate from "../../images/myplate-project.png";
-// import spaceExplorer from "../../images/space-explorer.png";
-// import weatherDashboard from "../../images/weather-dashboard.png";
-// import workdayScheduler from "../../images/workday-scheduler.png";
 
 
 const Project = () => {

@@ -5,7 +5,6 @@ import spaceExplorer from "./images/space-explorer.png";
 import weatherDashboard from "./images/weather-dashboard.png";
 import workDayScheduler from "./images/workday-scheduler.png";
 
-
 export default [
     {
         "id": 1,
