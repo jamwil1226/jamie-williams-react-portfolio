@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <header>
             <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
-                    <a className="navbar-brand" href="/intro">Jamie Williams Portfolio</a>
+                    <a className="navbar-brand" href="/jamie-williams-react-portfolio">Jamie Williams Portfolio</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" 
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
                     aria-expanded="false" aria-label="Toggle navigation">

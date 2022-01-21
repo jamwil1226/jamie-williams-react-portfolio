@@ -17,7 +17,7 @@ return (
     <div>
       <Header/>
       <Routes>
-        <Route path="/intro" element={<Intro/>} />
+        <Route path="/jamie-williams-react-portfolio" element={<Intro/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/project" element={<Project/>} />
         <Route path="/contact" element={<Contact/>} />
