@@ -51,15 +51,15 @@
     font-style: italic;
     margin: 10px;
     display: flex;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .a-desc h3{
-    font-size: 13px;
+    font-size: 12px;
     margin: 10px;
 }
 
-@media (min-width: 1245px) {
+@media (min-width: 1245px) { 
     .a {
         margin-top: 100px;
     }
