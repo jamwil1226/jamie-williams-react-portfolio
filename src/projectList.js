@@ -13,7 +13,7 @@ export default [
         "image": costumeInventory,
         "description": "This app allows our client who is a busy dance studio director to keep track of the dance studio's inventory by separating into categories, checking in, checking out, and deleting as needed.",
         "github": "https://github.com/Kadargo63/excelsior-inventory",
-        "deploy": "https://enigmatic-reaches-91746.herokuapp.com"
+        "deploy": "https://shrouded-forest-00815.herokuapp.com/"
     },
     {
         "id": 2,
