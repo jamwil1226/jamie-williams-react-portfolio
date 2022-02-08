@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jamie-williams-react-portfolio/static/css/main.d6c8acee.css",
-    "main.js": "/jamie-williams-react-portfolio/static/js/main.7814f0ff.js",
+    "main.js": "/jamie-williams-react-portfolio/static/js/main.964e6a07.js",
     "static/media/original-portfolio.png": "/jamie-williams-react-portfolio/static/media/original-portfolio.93244fc3f03f481f73a8.png",
     "static/media/space-explorer.png": "/jamie-williams-react-portfolio/static/media/space-explorer.8c769714c1513631ae33.png",
     "static/media/myplate-project.png": "/jamie-williams-react-portfolio/static/media/myplate-project.17b717b44060dba5b480.png",
@@ -14,10 +14,10 @@
     "static/media/note-taker.png": "/jamie-williams-react-portfolio/static/media/note-taker.e2e696f3ce16cd467965.png",
     "index.html": "/jamie-williams-react-portfolio/index.html",
     "main.d6c8acee.css.map": "/jamie-williams-react-portfolio/static/css/main.d6c8acee.css.map",
-    "main.7814f0ff.js.map": "/jamie-williams-react-portfolio/static/js/main.7814f0ff.js.map"
+    "main.964e6a07.js.map": "/jamie-williams-react-portfolio/static/js/main.964e6a07.js.map"
   },
   "entrypoints": [
     "static/css/main.d6c8acee.css",
-    "static/js/main.7814f0ff.js"
+    "static/js/main.964e6a07.js"
   ]
 }
