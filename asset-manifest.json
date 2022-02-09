@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jamie-williams-react-portfolio/static/css/main.d6c8acee.css",
-    "main.js": "/jamie-williams-react-portfolio/static/js/main.964e6a07.js",
+    "main.css": "/jamie-williams-react-portfolio/static/css/main.a9bada89.css",
+    "main.js": "/jamie-williams-react-portfolio/static/js/main.99bda3b1.js",
     "static/media/original-portfolio.png": "/jamie-williams-react-portfolio/static/media/original-portfolio.93244fc3f03f481f73a8.png",
     "static/media/space-explorer.png": "/jamie-williams-react-portfolio/static/media/space-explorer.8c769714c1513631ae33.png",
     "static/media/myplate-project.png": "/jamie-williams-react-portfolio/static/media/myplate-project.17b717b44060dba5b480.png",
@@ -13,11 +13,11 @@
     "static/media/workday-scheduler.png": "/jamie-williams-react-portfolio/static/media/workday-scheduler.0b4217d59e4c0d3a9210.png",
     "static/media/note-taker.png": "/jamie-williams-react-portfolio/static/media/note-taker.e2e696f3ce16cd467965.png",
     "index.html": "/jamie-williams-react-portfolio/index.html",
-    "main.d6c8acee.css.map": "/jamie-williams-react-portfolio/static/css/main.d6c8acee.css.map",
-    "main.964e6a07.js.map": "/jamie-williams-react-portfolio/static/js/main.964e6a07.js.map"
+    "main.a9bada89.css.map": "/jamie-williams-react-portfolio/static/css/main.a9bada89.css.map",
+    "main.99bda3b1.js.map": "/jamie-williams-react-portfolio/static/js/main.99bda3b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6c8acee.css",
-    "static/js/main.964e6a07.js"
+    "static/css/main.a9bada89.css",
+    "static/js/main.99bda3b1.js"
   ]
 }
