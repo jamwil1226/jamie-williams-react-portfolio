@@ -63,12 +63,13 @@ function ContactForm() {
         <div className="c-wrapper">   
         
             <div className="container-fluid" id="contact">
-                <h1>CONTACT ME</h1>
-                <div className="row">
-                <div className="col-md-6">
+                <h1></h1>
+                {/* <div className="row">
+                <div className="col-md-6"> */}
                         <div className ="c-info">
                             <div className="c-info-item">
-                                <strong>LET'S DISCUSS YOUR PROJECT!</strong>
+                                {/* <p><strong>LET'S DISCUSS YOUR PROJECT!</strong></p> */}
+                                {/* <p>I would love an opportunity to answer any questions you have and tell you how I can help make your visions a reality for your business.</p> */}
                             </div>
                         <div className="c-info">
                                 <div className="c-info-item">
@@ -83,14 +84,14 @@ function ContactForm() {
                                     <img className="c-icon" src={Email} alt="" />
                                     jamie@jamiewilliams.tech
                                 </div>
-                      </div> 
-                    </div>                    
+                      {/* </div> 
+                    </div>                     */}
                 </div>
-                <div className="col-md-6">
+                {/* <div className="col-md-6">
                   <div className="c-desc">
                   I would love an opportunity to answer any questions you have and tell you how I can help make your visions a reality for your business.
-                  </div>
-                        <form id="contact-form" onSubmit={handleSubmit}>
+                  </div> */}
+                        {/* <form id="contact-form" onSubmit={handleSubmit}>
                         <div>
                             
                             <label htmlFor="name">Name:</label>
@@ -110,8 +111,8 @@ function ContactForm() {
                             </div>
                         )}
                         <button data-testid="button" type="submit">Submit</button>
-                        </form>
-                    </div>
+                        </form> */}
+                    {/* </div> */}
                     
               </div>
             </div>

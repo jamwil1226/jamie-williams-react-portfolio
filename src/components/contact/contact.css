@@ -7,13 +7,13 @@
 }
 
 
-.c-right {
+/* .c-right {
     flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
+} */
 
 h1 {
     background-color: black;
@@ -35,7 +35,7 @@ h1 {
     align-items: center;
     text-align: center;
     justify-content: center;
-    margin: 50px 0px;
+    margin: 20px 20px;
 } 
 
 .c-icon {
