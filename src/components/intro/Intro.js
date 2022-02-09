@@ -22,7 +22,7 @@ const Intro = () => {
                                 </div>
                             </div>
                             <div className="h-desc">
-                                <h3>Combining my love for design and technology with my passion for photograpy, writing, and content creating - you can count on me for all of your business needs!</h3>
+                                {/* <h3>Combining my love for design and technology with my passion for photograpy, writing, and content creating - you can count on me for all of your business needs!</h3> */}
                             </div>
                         </div>
                     </div>
