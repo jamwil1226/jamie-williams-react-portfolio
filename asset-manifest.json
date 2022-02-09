@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jamie-williams-react-portfolio/static/css/main.a9bada89.css",
-    "main.js": "/jamie-williams-react-portfolio/static/js/main.99bda3b1.js",
+    "main.css": "/jamie-williams-react-portfolio/static/css/main.56d5c174.css",
+    "main.js": "/jamie-williams-react-portfolio/static/js/main.c3adfa47.js",
     "static/media/original-portfolio.png": "/jamie-williams-react-portfolio/static/media/original-portfolio.93244fc3f03f481f73a8.png",
     "static/media/space-explorer.png": "/jamie-williams-react-portfolio/static/media/space-explorer.8c769714c1513631ae33.png",
     "static/media/myplate-project.png": "/jamie-williams-react-portfolio/static/media/myplate-project.17b717b44060dba5b480.png",
     "static/media/resume.png": "/jamie-williams-react-portfolio/static/media/resume.7adac7a05e3492fc9796.png",
     "static/media/costume-inventory.png": "/jamie-williams-react-portfolio/static/media/costume-inventory.a75a0b5a9f1ad453cddc.png",
     "static/media/jamie-about-me-resized.png": "/jamie-williams-react-portfolio/static/media/jamie-about-me-resized.49a8aa11a205791e9bfc.png",
-    "static/media/resume.pdf": "/jamie-williams-react-portfolio/static/media/resume.43e2a816983725f98f25.pdf",
     "static/media/jamie-headshot.png": "/jamie-williams-react-portfolio/static/media/jamie-headshot.a0156ca64b14e55dd3a8.png",
+    "static/media/resume.pdf": "/jamie-williams-react-portfolio/static/media/resume.f395a90f3ea281520701.pdf",
     "static/media/workday-scheduler.png": "/jamie-williams-react-portfolio/static/media/workday-scheduler.0b4217d59e4c0d3a9210.png",
     "static/media/note-taker.png": "/jamie-williams-react-portfolio/static/media/note-taker.e2e696f3ce16cd467965.png",
     "index.html": "/jamie-williams-react-portfolio/index.html",
-    "main.a9bada89.css.map": "/jamie-williams-react-portfolio/static/css/main.a9bada89.css.map",
-    "main.99bda3b1.js.map": "/jamie-williams-react-portfolio/static/js/main.99bda3b1.js.map"
+    "main.56d5c174.css.map": "/jamie-williams-react-portfolio/static/css/main.56d5c174.css.map",
+    "main.c3adfa47.js.map": "/jamie-williams-react-portfolio/static/js/main.c3adfa47.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9bada89.css",
-    "static/js/main.99bda3b1.js"
+    "static/css/main.56d5c174.css",
+    "static/js/main.c3adfa47.js"
   ]
 }
